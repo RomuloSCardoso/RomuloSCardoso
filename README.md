@@ -1,6 +1,6 @@
 ## Hello, I'm Rômulo Cardoso
 
-- 🌱 I’m currently learning Python, Javascript and Node.Js
+- 🌱 I’m currently learning Python, C, Javascript and Node.Js
 - 📫 How to reach me: romulosilvacardoso09@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
